@@ -21,7 +21,7 @@ Methodology
 * Performed exploratory data analysis and data cleaning
 * Processed numerical and categorical features using scikit-learn pipelines
 * Applied feature scaling and one-hot encoding
-* Built and trained a neural network using PyTorch or
+* Built and trained a neural network using PyTorch
 * Evaluated model performance using validation metrics including F1 score and ROC-AUC
 * Optimized classification thresholds to improve predictive performance
 
