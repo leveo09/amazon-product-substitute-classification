@@ -28,3 +28,7 @@ Methodology
 Results
 
 The final model achieved a validation F1 score above 0.70 after threshold optimization and was used to generate predictions on unseen product pairs.
+
+Dataset
+
+The dataset files are not included in this repository. The notebook expects `training.csv` and `public_test_features.csv` to be available locally in the project directory.
